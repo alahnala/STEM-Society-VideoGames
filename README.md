@@ -23,7 +23,7 @@ To follow along with the full computer science lesson, visit the [slide deck](ht
 
 ## Credits
 
-This lesson was created by Allie Lahnala (me) and Tom Sandell in the Fall of 2015 as part of our involvement with STEM Society, a student-run organization at University of Michigan. The lesson has undergone minor incremental updates each year, with contributions from Travis DePrato, Paul Chamberlain, and Humza Khan after my graduation 2017. If you are aware of additional contributors, please reach out to me so I can credit them as well.
+This lesson was created by Allie Lahnala (me) and Tom Sandell in the Fall of 2015 as part of our involvement with STEM Society, a student-run organization at University of Michigan. The lesson has undergone minor incremental updates each year, with contributions from Travis DePrato, Paul Chamberlain, and Humza Khan after my graduation in 2017. If you are aware of additional contributors, please reach out to me so I can credit them as well.
 
 ## License
 
