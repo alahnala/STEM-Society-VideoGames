@@ -27,5 +27,5 @@ This lesson was created by Allie Lahnala (me) and Tom Sandell in the Fall of 201
 
 ## License
 
-This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/alahnala/STEM-Society-VideoGames/blob/master/LICENSE) file for rights and limitations.
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/alahnala/STEM-Society-VideoGames/blob/main/LICENSE) file for rights and limitations.
 
